@@ -7,7 +7,7 @@ Bienvenido a mi portafolio. Aquí encontrarás algunos de los dashboards que he 
 ## 📌 Proyectos
 
 ### 1. Dashboard Financiero
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/Repo1)  
+🔗 [Ver repositorio](https://github.com/wdaherb/dashboard-financiero-powerbi)  
 - Análisis de KPIs financieros: Ingresos, Costos, EBITDA.  
 - Comparación **Actual vs Budget vs Forecast**.  
 - Crecimiento **Year-over-Year (YoY)**.  
