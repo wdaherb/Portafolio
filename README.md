@@ -19,7 +19,7 @@ Bienvenido a mi portafolio. Aquí encontrarás algunos de los dashboards que he 
 ---
 
 ### 2. Dashboard de Ventas
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/Repo2)  
+🔗 [Ver repositorio](https://github.com/wdaherb/Dashboard-de-Ventas-y-Finanzas)
 - Análisis de ventas por región, producto y canal.  
 - Comparación de **unidades vendidas vs revenue**.  
 - Evolución de ventas **mensual y anual**.  
