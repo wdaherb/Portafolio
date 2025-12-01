@@ -14,7 +14,7 @@ Bienvenido a mi portafolio. Aquí encontrarás algunos de los dashboards que he 
 - Visualizaciones interactivas para toma de decisiones.  
 
 📷 **Vista previa:**  
-![Dashboard Financiero](ruta/a/imagen_financiero.png)
+![Dashboard Financiero](Estado%20de%20Resultados.png)
 
 ---
 
