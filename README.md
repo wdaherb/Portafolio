@@ -26,7 +26,7 @@ Bienvenido a mi portafolio. Aquí encontrarás algunos de los dashboards que he 
 - Segmentación dinámica con filtros y slicers.  
 
 📷 **Vista previa:**  
-![Dashboard de Ventas](ruta/a/imagen_ventas.png)
+![Dashboard de Ventas](Ventas_Finanzas.png)
 
 ---
 
